@@ -9,10 +9,10 @@ This repository is a running record of my audit contest findings, bug bounty sub
 
 ## 📊 Track Record
 
-| Date | Protocol | Platform | Severity | Status | Report |
-|------|----------|----------|----------|--------|--------|
-| _2026-04_ | PasswordStore | Practice (Cyfrin) | High · Med | — | [PDF](practice/2026-04-25-password-store-report.pdf) |
-| | | | | | |
+| Date      | Protocol      | Platform          | Severity   | Status | Report                                               |
+| --------- | ------------- | ----------------- | ---------- | ------ | ---------------------------------------------------- |
+| _2026-04_ | PasswordStore | Practice (Cyfrin) | High · Med | —      | [PDF](practice/2026-04-25-password-store-report.pdf) |
+|           |               |                   |            |        |                                                      |
 
 <!--
 Add newest findings at the TOP. Suggested Status values:
@@ -27,24 +27,22 @@ _(Update these counts as the table grows — recruiters read this line first.)_
 
 ## 🔗 Profiles
 
-- **Code4rena:** _add link_
-- **Sherlock:** _add link_
-- **Cantina:** _add link_
-- **CodeHawks:** _add link_
-- **Immunefi / HackenProof:** _add link_
-- **X / Twitter:** _add link_
+- **HackenProof:** [https://hackenproof.com/hackers/theafrodev](https://hackenproof.com/hackers/theafrodev)
+- **Sherlock:** [https://audits.sherlock.xyz/watson/TheAfroDev](https://audits.sherlock.xyz/watson/TheAfroDev)
+- **Cantina:** [https://cantina.xyz/u/theafrodev](https://cantina.xyz/u/theafrodev)
+- **X / Twitter:** [https://x.com/theafro_dev](https://x.com/theafro_dev)
 
 ---
 
 ## 📁 Repository Structure
 
-| Folder | Contents |
-|--------|----------|
-| [`contests/`](contests/) | Findings from competitive audits (Code4rena, Sherlock, Cantina, CodeHawks) |
+| Folder                           | Contents                                                                    |
+| -------------------------------- | --------------------------------------------------------------------------- |
+| [`contests/`](contests/)         | Findings from competitive audits (Code4rena, Sherlock, Cantina, CodeHawks)  |
 | [`bug-bounties/`](bug-bounties/) | Bug bounty submissions (Immunefi, HackenProof) — redacted per program rules |
-| [`independent/`](independent/) | Self-directed deep-dives on live or public protocols |
-| [`practice/`](practice/) | Training exercises and first-flights (learning, not production findings) |
-| [`_templates/`](_templates/) | Reusable finding-writeup + Foundry PoC templates |
+| [`independent/`](independent/)   | Self-directed deep-dives on live or public protocols                        |
+| [`practice/`](practice/)         | Training exercises and first-flights (learning, not production findings)    |
+| [`_templates/`](_templates/)     | Reusable finding-writeup + Foundry PoC templates                            |
 
 Each engagement lives in its own dated folder — e.g. `contests/2026-05-<protocol>/` — containing a `README.md` writeup and, where applicable, a runnable `PoC/`.
 
@@ -58,7 +56,7 @@ pattern-matching tools miss. Every finding here includes a root-cause writeup an
 target allows, a runnable proof of concept.
 
 **Available for:** private audits · audit-firm roles · bug bounty collaborations.
-**Contact:** _add email / X DM_
+**Contact:** [theafricandev1@gmail.com](mailto:theafricandev1@gmail.com) / X [DM](https://x.com/theafro_dev)
 
 ---
 
