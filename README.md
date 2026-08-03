@@ -9,10 +9,10 @@ This repository is a running record of my audit contest findings, bug bounty sub
 
 ## 📊 Track Record
 
-| Date      | Protocol      | Platform          | Severity   | Status | Report                                               |
-| --------- | ------------- | ----------------- | ---------- | ------ | ---------------------------------------------------- |
-| _2026-04_ | PasswordStore | Practice (Cyfrin) | High · Med | —      | [PDF](practice/2026-04-25-password-store-report.pdf) |
-|           |               |                   |            |        |                                                      |
+| Date      | Protocol           | Platform                     | Severity   | Status                 | Report                                                        |
+| --------- | ------------------ | ---------------------------- | ---------- | ---------------------- | ------------------------------------------------------------- |
+| _2026-06_ | 0xMarkets / Cartha | HackenProof (audit contest)  | High       | Confirmed by team      | [Writeup](contests/2026-06-0xmarkets-cartha/README.md)        |
+| _2026-04_ | PasswordStore      | Practice (Cyfrin)            | High · Med | —                      | [PDF](practice/2026-04-25-password-store-report.pdf)          |
 
 <!--
 Add newest findings at the TOP. Suggested Status values:
@@ -20,7 +20,7 @@ Confirmed · Acknowledged · Fixed · Duplicate · Disputed · Rewarded ($X)
 Keep severities honest — inflated severities are the fastest way to lose credibility.
 -->
 
-**Summary:** _X findings across Y engagements — A High/Critical, B Medium._
+**Summary:** _1 confirmed production finding — 1 High (team-validated). Plus practice exercises._
 _(Update these counts as the table grows — recruiters read this line first.)_
 
 ---
